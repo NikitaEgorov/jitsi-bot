@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "moment": "2.30.1",
+    "puppeteer": "23.3.0",
+    "puppeteer-screen-recorder": "3.0.3",
+    "puppeteer-stream": "3.0.15"
+  }
+}
